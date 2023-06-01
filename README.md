@@ -45,3 +45,38 @@ public class Main {
 }
 
 ```
+
+### Autoboxing
+
+Automatic conversion of primitive data to Objects.
+
+#### Example:
+```
+ public static void main (String args[]){
+    int + a = 100;
+    Integer i = a; // Autoboxing will occur internally
+ }
+```
+
+
+
+### Unboxing
+
+Converts the Object into a Wrapper class to is primitive.
+
+#### Example:
+```
+ public static void main (String args[]){
+    Integer a = new Integer(15); // wrapper
+    int I = a; // UNboxing wil occur internally.
+ }
+```
+
+
+## Questions
+
+What are Wrapper classes in Java?
+> Is a way to use primitive Data as an Object.
+
+Why use the wrapper class in Java?
+> This is an option that allows to use the methods that a class has, is more easy for manipulate data.
