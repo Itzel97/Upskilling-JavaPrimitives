@@ -2,13 +2,13 @@
 
 ## Data Type Primitives
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
+| Data Type| Size	| Description |
+| --- | --- | --- |
+| Boolean | 1 bit | Store true or false. |
 | git diff | Show file differences that haven't been staged |
 
-### Boolean(1 bit)
-Store true or false.
+### 
+
 
 ### Byte (1 byte = 8 bits)
 Store int numbers in a rage of -128 to +127
