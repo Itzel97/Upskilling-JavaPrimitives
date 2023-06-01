@@ -1,6 +1,6 @@
 # Upskilling-JavaPrimitives
 
-##Data Type Primitives
+## Data Type Primitives
 
-###Boolean(1 bit)
+### Boolean(1 bit)
 Store true or false
